@@ -1,0 +1,35 @@
+3D Objects/
+AppData/
+Application Data@
+Contacts/
+Cookies@
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Local Settings@
+Music/
+My Documents@
+NTUSER.DAT
+NTUSER.DAT{4b61f305-e2a8-11ed-bede-f6820abd2a07}.TxR.0.regtrans-ms
+NTUSER.DAT{4b61f305-e2a8-11ed-bede-f6820abd2a07}.TxR.1.regtrans-ms
+NTUSER.DAT{4b61f305-e2a8-11ed-bede-f6820abd2a07}.TxR.2.regtrans-ms
+NTUSER.DAT{4b61f305-e2a8-11ed-bede-f6820abd2a07}.TxR.blf
+NTUSER.DAT{4b61f306-e2a8-11ed-bede-f6820abd2a07}.TM.blf
+NTUSER.DAT{4b61f306-e2a8-11ed-bede-f6820abd2a07}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{4b61f306-e2a8-11ed-bede-f6820abd2a07}.TMContainer00000000000000000002.regtrans-ms
+NetHood@
+OneDrive/
+PrintHood@
+Recent@
+Saved Games/
+Searches/
+SendTo@
+Start Menu@
+Templates@
+Videos/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+tempE2/
